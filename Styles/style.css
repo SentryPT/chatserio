@@ -1,9 +1,10 @@
 header{
-    width: 100%;
+    width: 50%;
     height: 80px;
     background-color: red;
     margin: 20px;
     padding: 20px;
+    display: flex;
     
 }
 .logo{
